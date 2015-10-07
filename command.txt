@@ -1,0 +1,10 @@
+dist ABC
+dist AD
+trip AC node = 4
+sdist AC
+dist ADC
+dist AEBCD
+dist AED
+trip CC node <= 3
+sdist BB
+trip CC dist < 28
